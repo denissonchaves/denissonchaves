@@ -1,7 +1,7 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Denisson Chaves</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views" /> </p>
 
-I graduated in Civil Engineering in 2015 and after years working with software, mainly excel, to execute projects, manage buildings and other tasks, I ended up discovering Python for automation, but I also ended up discovering Front-End... x)
+I graduated in Civil Engineering in 2015 and after a few years working with software, mainly excel, executing projects, managing buildings and other tasks, I ended up discovering Python for automation, but I also ended up discovering Front-End... x)
 
 So in 2021, I started to study Analysis and Systems Development at College and learning Front-end at Alura.
 
@@ -23,6 +23,6 @@ These are some of the technologies and tools that I'm learning and working with:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=vision-friendly-dark" alt="denissonchaves's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=vision-friendly-dark" alt="denissonchaves's most languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=vision-friendly-dark" alt="denissonchaves's stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=vision-friendly-dark" alt="denissonchaves's most languages"/>
 </p>
