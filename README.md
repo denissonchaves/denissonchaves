@@ -1,7 +1,7 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Denisson Chaves</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-I graduated in Civil Engineering in 2015 and after a few years working with software, mainly excel, executing projects, managing buildings and other tasks, I ended up discovering Python for automation, but I also ended up discovering Front-End... x)
+after a few years working with civil engineering software, mainly excel, executing projects, managing buildings and other tasks, I ended up discovering Python for automation, but I also ended up discovering Front-End... x)
 
 So in 2021, I started to study Analysis and Systems Development at College and learning Front-end at Alura.
 
