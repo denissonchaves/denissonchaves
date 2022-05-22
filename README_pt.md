@@ -1,3 +1,7 @@
+<table align="right">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_pt.md">Português</a></td></tr>
+</table>
 <h2 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Denisson Chaves</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
