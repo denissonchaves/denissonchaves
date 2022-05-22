@@ -1,7 +1,7 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Denisson Chaves</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-After a few years working with civil engineering software, mainly Excel and AutoCAD, executing projects, managing buildings and other tasks, I ended up discovering Python and Front-end development. I liked it so much that I decided to venture into the field of technology.
+After a few years working with civil engineering software, mainly Excel and AutoCAD, executing projects and managing buildings, I ended up discovering Python and Front-end development. I liked it so much that I decided to dedicate myself to the field of technology.
 
 So, in 2021, I started to study Analysis and Systems Development at College and learning Front-end at Alura.
 
