@@ -9,7 +9,7 @@ So in 2021, I started to study Analysis and Systems Development at College and l
 
 These are some of the technologies and tools that I'm learning and working with:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -20,10 +20,12 @@ These are some of the technologies and tools that I'm learning and working with:
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Autodesk](https://img.shields.io/badge/-Autodesk-05122A?style=flat&logo=autodesk)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=orange)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=github_dark" alt="denissonchaves's stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=github_dark" alt="denissonchaves's most languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=github_dark&include_all_commits" alt="denissonchaves's stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=github_dark&include_all_commits" alt="denissonchaves's most languages"/>
 </p>
