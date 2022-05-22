@@ -24,6 +24,6 @@ These are some of the technologies and tools that I'm learning and working with:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=vision-friendly-dark" alt="denissonchaves's stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=vision-friendly-dark" alt="denissonchaves's most languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=github_dark" alt="denissonchaves's stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=github_dark" alt="denissonchaves's most languages"/>
 </p>
