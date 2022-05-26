@@ -11,7 +11,7 @@ Então, em 2021, comecei a estudar Análise e Desenvolvimento de Sistemas na Fac
 
 ## ⚡ Tecnologias
 
-Essas são algumas das tecnologias e ferramentas que eu trabalho e também estou estudando:
+Essas são algumas das tecnologias e ferramentas que eu trabalho e que também estou estudando:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
