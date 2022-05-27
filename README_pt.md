@@ -7,6 +7,8 @@
 
 Meu nome é Denisson Chaves, e após alguns anos trabalhando com softwares de engenharia civil, principalmente Excel e AutoCAD, executando projetos e gerenciando obras, descobri o Python e o Desenvolvimento Front-end para me ajudar em algumas tarefas diárias, mas acabei gostando tanto que decidi me dedicar à área da tecnologia. Então, em 2021, comecei a estudar Análise e Desenvolvimento de Sistemas na Faculdade e a aprender Front-end na Alura.
 
+Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre aprender algo novo e entender como cada coisa funciona.
+
 ## ⚡ Tecnologias
 
 Essas são algumas das tecnologias e ferramentas que eu trabalho e que também estou estudando:
