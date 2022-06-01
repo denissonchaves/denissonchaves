@@ -2,7 +2,7 @@
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
-<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
+<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
 My name is Denisson Chaves and after a few years working with civil engineering software, mainly Excel and AutoCAD, executing projects and managing buildings, I ended up discovering Python and Front-end development to help me with some tasks, but I liked it so much that I decided to dedicate myself to the field of technology. So, in 2021, I started to study Analysis and Systems Development at College and learning Front-end at Alura.
