@@ -5,7 +5,7 @@
 <h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-My name is Denisson Chaves and after a few years working with civil engineering software, mainly Excel and AutoCAD, executing projects and managing buildings, I ended up discovering Python and Front-end development to help me with some tasks, but I liked it so much that I decided to dedicate myself to the field of technology. So, in 2021, I started to study Analysis and Systems Development at College and learning Front-end at Alura.
+My name is Denisson Chaves and after a few years working with civil engineering software I ended up discovering Python and Front-end development to help me with some tasks, automating tables and creating my website to publish my projects, but I liked it so much that I decided to dedicate myself to the field of technology. So, in 2021, I started to study Analysis and Systems Development at College and learning Front-end.
 
 I'm a dedicated person, curious and passionate about technology, always looking to learn something new and understand how everything it works.
 
@@ -14,9 +14,10 @@ I'm a dedicated person, curious and passionate about technology, always looking 
 These are some of the technologies and tools that I'm learning and working with:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
