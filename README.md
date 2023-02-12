@@ -5,7 +5,7 @@
 <h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-My name is Denisson Chaves and after a few years working with civil engineering software I ended up discovering Python and Front-end development to help me with some tasks, automating tables and creating my website to publish my projects, but I liked it so much that I decided to dedicate myself to the field of technology. So, in 2021, I started to study Analysis and Systems Development at College and learning Front-end.
+My name is Denisson Chaves and after a few years working with civil engineering software I started studying programming to help me with some tasks, automating tables and creating my website to publish my projects, but I liked it so much that I decided to dedicate myself to the field of technology.
 
 I'm a dedicated person, curious and passionate about technology, always looking to learn something new and understand how everything it works.
 
