@@ -5,7 +5,7 @@
 <h2 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-Meu nome é Denisson Chaves, e após alguns anos trabalhando com softwares de engenharia civil descobri o Python e o Desenvolvimento Front-end para me ajudar em algumas tarefas diárias, automatizando tabelas e criando meu site para publicar meus projetos, mas acabei gostando tanto que decidi me dedicar à área da tecnologia. Então, em 2021, comecei a estudar Análise e Desenvolvimento de Sistemas na Faculdade e a aprender Front-end.
+Meu nome é Denisson Chaves e, após alguns anos trabalhando com softwares de engenharia civil, comecei a estudar programação para me ajudar em algumas tarefas diárias, automatizando tabelas e criando meu site para publicar meus projetos, mas acabei gostando tanto que decidi me dedicar à área da tecnologia.
 
 Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre aprender algo novo e entender como cada coisa funciona.
 
