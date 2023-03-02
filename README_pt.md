@@ -14,6 +14,7 @@ Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre ap
 Essas são algumas das tecnologias e ferramentas que eu trabalho e que também estou estudando:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
