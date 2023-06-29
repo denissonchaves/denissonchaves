@@ -5,7 +5,7 @@
 <h2 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-Meu nome é Denisson Chaves e, após alguns anos trabalhando com softwares de engenharia civil, comecei a estudar programação para me ajudar em algumas tarefas diárias, automatizando tabelas e criando meu site para publicar meus projetos, mas acabei gostando tanto que decidi me dedicar à área da tecnologia.
+Desenvolvedor front-end com foco em tecnologias como React, TypeScript, JavaScript, HTML, CSS, Python e Node.js. Sólida experiência em controle de versionamento com Git, conhecimento em ferramentas como GitHub e GitLab. Proficiente em design de interfaces utilizando Figma, Bootstrap e MUI.
 
 Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre aprender algo novo e entender como cada coisa funciona.
 
@@ -31,10 +31,3 @@ Essas são algumas das tecnologias e ferramentas que eu trabalho e que também e
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Autodesk](https://img.shields.io/badge/-Autodesk-05122A?style=flat&logo=autodesk)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=orange)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=github_dark&include_all_commits" alt="denissonchaves's stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=github_dark&include_all_commits" alt="denissonchaves's most languages"/>
-</p>
