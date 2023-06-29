@@ -2,16 +2,16 @@
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
-<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
+<h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-My name is Denisson Chaves and after a few years working with civil engineering software I started studying programming to help me with some tasks, automating tables and creating my website to publish my projects, but I liked it so much that I decided to dedicate myself to the field of technology.
+Front-end developer with a focus on technologies such as React, TypeScript, JavaScript, HTML, CSS, Python, and Node.js. Solid experience in version control with Git, familiarity with tools like GitHub and GitLab. Proficient in interface design using Figma, Bootstrap, and MUI.
 
 I'm a dedicated person, curious and passionate about technology, always looking to learn something new and understand how everything it works.
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I'm learning and working with:
+These are some of technologies and tools that I'm learning and working with:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -31,10 +31,3 @@ These are some of the technologies and tools that I'm learning and working with:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Autodesk](https://img.shields.io/badge/-Autodesk-05122A?style=flat&logo=autodesk)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=orange)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=denissonchaves&show_icons=true&theme=github_dark&include_all_commits" alt="denissonchaves's stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonchaves&layout=compact&theme=github_dark&include_all_commits" alt="denissonchaves's most languages"/>
-</p>
