@@ -2,7 +2,7 @@
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
-<h2 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
+<h2 align="left">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
 Desenvolvedor front-end com foco em tecnologias como React, TypeScript, JavaScript, HTML, CSS, Python e Node.js. Sólida experiência em controle de versionamento com Git, conhecimento em ferramentas como GitHub e GitLab. Proficiente em design de interfaces utilizando Figma, Bootstrap e MUI.
