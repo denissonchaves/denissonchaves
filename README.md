@@ -5,7 +5,7 @@
 <h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-Front-end developer with a focus on technologies such as React, TypeScript, JavaScript, HTML, CSS, Python, and Node.js. Solid experience in version control with Git, familiarity with tools like GitHub and GitLab. Proficient in interface design using Figma, Bootstrap, and MUI.
+Front-end developer with a focus on technologies such as React, React Native, TypeScript, JavaScript, HTML, CSS, Python, and Node.js. Solid experience in version control with Git, familiarity with tools like GitHub and GitLab. Proficient in interface design using Figma, Bootstrap, MUI and others.
 
 I'm a dedicated person, curious and passionate about technology, always looking to learn something new and understand how everything it works.
 
@@ -14,6 +14,7 @@ I'm a dedicated person, curious and passionate about technology, always looking 
 These are some of technologies and tools that I'm learning and working with:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
