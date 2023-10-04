@@ -5,7 +5,7 @@
 <h2 align="left">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-Desenvolvedor front-end com foco em tecnologias como React, React Native, TypeScript, JavaScript, HTML, CSS, Python e Node.js. Sólida experiência em controle de versionamento com Git, conhecimento em ferramentas como GitHub e GitLab. Proficiente em design de interfaces utilizando Figma, Bootstrap e MUI.
+Desenvolvedor front-end com foco em tecnologias como React, React Native, TypeScript, JavaScript, HTML, CSS (SCSS), PHP, Python e Node.js. Sólida experiência em controle de versionamento com Git, conhecimento em ferramentas como GitHub e GitLab. Proficiente em design de interfaces utilizando Figma, Bootstrap e MUI.
 
 Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre aprender algo novo e entender como cada coisa funciona.
 
