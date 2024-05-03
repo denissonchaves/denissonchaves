@@ -1,6 +1,8 @@
 <table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_pt.md">Português</a></td></tr>
+ <tr>
+  <td><a href="README.md">English</a></td>
+  <td><a href="README_pt.md">Português</a></td>
+ </tr>
 </table>
 <h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
