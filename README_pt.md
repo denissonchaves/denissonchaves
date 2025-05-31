@@ -15,6 +15,7 @@ Sou uma pessoa dedicada, curiosa e apaixonado por tecnologia, buscando sempre ap
 
 Essas são algumas das tecnologias e ferramentas que eu trabalho e que também estou estudando:
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
