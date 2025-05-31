@@ -7,13 +7,13 @@
 <h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denissonchaves&color=blue" alt="Profile views"> </p>
 
-Front-end developer with a focus on technologies such as Vue.js, React, React Native, TypeScript, JavaScript, HTML, CSS (SCSS), PHP, Python, and Node.js. Solid experience in version control with Git, familiarity with tools like GitHub and GitLab. Proficient in interface design using Figma, Bootstrap, MUI and others.
+Front-end developer with experience in Vue.js, React, React Native, TypeScript, JavaScript, HTML, and CSS (SCSS), along with knowledge of PHP, Python, and Node.js for back-end integrations. Skilled in version control using Git, GitHub, and GitLab, and proficient in interface design with Figma, Bootstrap, and MUI.
 
-I'm a dedicated person, curious and passionate about technology, always looking to learn something new and understand how everything it works.
+A dedicated, curious, and passionate technology enthusiast, always seeking to learn something new and understand how everything works.
 
 ## ⚡ Technologies
 
-These are some of technologies and tools that I'm learning and working with:
+These are some of the technologies and tools I use every day and keep exploring more and more:
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
