@@ -33,6 +33,3 @@ Essas são algumas das tecnologias e ferramentas que eu uso no dia a dia e venho
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Autodesk](https://img.shields.io/badge/-Autodesk-05122A?style=flat&logo=autodesk)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=orange)&nbsp;
